@@ -38,7 +38,7 @@ for _ in range(50):
     estrella(x, y, tamaño, color)
 
 # Texto principal
-escribir("🎉 Feliz Cumpleaños 🎉", 0, 80, 28, "pink")
+escribir("🎉 Felíz Cumpleaños 🎉", 0, 80, 28, "pink")
 escribir("Hellen", 0, 40, 36, "white")
 
 # Mensaje final

@@ -4,7 +4,7 @@ import random
 # Configuración de pantalla
 pantalla = turtle.Screen()
 pantalla.bgcolor("black")
-pantalla.title("Feliz Cumpleaños")
+pantalla.title("Felíz Cumpleaños")
 
 t = turtle.Turtle()
 t.speed(0)
